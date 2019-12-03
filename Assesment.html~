@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+<title>"The University of Sheffield"</title>
+
+</head>
+
+<body>
+
+  <header><h1>The University of Sheffield</h1></header>
+<p>-Amazing facilities that students can use at 4th floor in Diamonds building-</p>
+  
+  <nav>
+    <ul class="navi">
+      <li><a href="#">menu1</a></li>
+      <li><a href="#">menu2</a></li>
+      <li><a href="#">menu3</a></li>
+      <li><a href="#">menu4</a></li></ul>
+  </nav>
+  <img src="https://www.sheffield.ac.uk/polopoly_fs/1.777583!/image/151112_Twelve_Diamond_012.jpg" alt="TheDiamonds" style="width:500px">
+
+</body>
+</html>
+
+			
+		
+		
+		
